@@ -14,9 +14,9 @@ int main()
     double oceanLevel7 = OCEAN_LEVEL * sevenYears;
     double oceanLevel10 = OCEAN_LEVEL * tenYears;
     
-    cout << "Ocean Level Increase In 5 years = " << oceanLevel5 << " milimeters" <<  endl;
-    cout << "Ocean Level Increase In 7 years = " << oceanLevel7<< " milimeters" <<  endl;
-    cout << "Ocean Level Increase In 10 years = " << oceanLevel10 << " milimeters" <<  endl;
+    cout << "Ocean Level Increase In 5 years = " << oceanLevel5 << " millimeters" <<  endl;
+    cout << "Ocean Level Increase In 7 years = " << oceanLevel7<< " millimeters" <<  endl;
+    cout << "Ocean Level Increase In 10 years = " << oceanLevel10 << " millimeters" <<  endl;
     
     return 0;
 }
