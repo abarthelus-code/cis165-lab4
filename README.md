@@ -15,6 +15,7 @@ Average — changed values	  23, 21, 67, 76, 49	        Sum = 236 Avg = 47.2	  S
 Ocean — assigned rate	      1.5	                       	7.5, 10.5, 15           7.5, 10.5, 15	        Match
 Ocean — changed rate	      4.5	                        22.5, 31.5, 45	        22.5, 31.5, 45	      Match
 
+I Reran every Program to test and make sure.
 
 Explain Your Code
 
