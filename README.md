@@ -9,7 +9,7 @@ Make a constant for the increasing ocean level at 1.5, represent 5,7,10 years wi
 
 Tests
 
-Program and test	          Values used        	        Expected results	      Actual results	  Match or correction
+Program and test            Values used        	        Expected results	      Actual results	  Match or correction
 Average — assigned values	  28, 32, 37, 24, 33	        Sum = 154 Avg = 30.8	  Sum = 154 Avg = 30.8	Match         
 Average — changed values	  23, 21, 67, 76, 49	        Sum = 236 Avg = 47.2	  Sum = 236 Avg = 47.2  Match	       
 Ocean — assigned rate	      1.5	                       	7.5, 10.5, 15           7.5, 10.5, 15	        Match
