@@ -35,4 +35,4 @@ Why is the annual ocean-level rate a good candidate for a named constant?
 - It doesn't change at all.
 
 Why does the assignment require calculations to be stored before using cout?
--It makes it more neat rather than putting the entire math formula.
+- It makes it more neat rather than putting the entire math formula.
