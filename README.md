@@ -37,3 +37,8 @@ Why is the annual ocean-level rate a good candidate for a named constant?
 
 Why does the assignment require calculations to be stored before using cout?
 - It makes it more neat rather than putting the entire math formula.
+
+To Compile
+
+g++ -std=c++17 -Wall -Wextra average.cpp -o average
+g++ -std=c++17 -Wall -Wextra ocean_levels.cpp -o ocean_levels
